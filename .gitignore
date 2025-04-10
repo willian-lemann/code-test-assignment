@@ -3,3 +3,4 @@ client/node_modules
 client/next
 server/node_modules
 server/dist
+config.bat
